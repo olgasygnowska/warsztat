@@ -1,2 +1,0 @@
-# warsztat
-Warsztat z HTML
